@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Do not commit videos or personal media
+*.mp4
+*.avi
+*.mov
+gym/

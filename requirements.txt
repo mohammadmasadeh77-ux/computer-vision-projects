@@ -1,0 +1,7 @@
+opencv-python
+mediapipe>=0.10.14,<0.10.30
+numpy
+pyautogui
+# Windows only (used by volume_control.py)
+pycaw; sys_platform == "win32"
+comtypes; sys_platform == "win32"
